@@ -4,7 +4,7 @@ Flask==0.12
 Flask-MySQLdb==0.2.0
 gunicorn==20.0.4
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==2.11.3
 MarkupSafe==1.0
 mysqlclient==1.4.6
 packaging==16.8
